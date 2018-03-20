@@ -3,5 +3,7 @@ Re-engineered version of Violet to a single-document in a JPanel and translated 
 
 Violet is an open source UML editor written in Java by Cay S. Horstmann, Alexandre de Pellegrin et al. It's good for educational purposes for general Java programming, design patterns, modular design. The GUI is based on the Swing toolkit.
 
+SELBO is an editor for electronic lessons, developed in Plovdiv University.
+
 http://alexdp.free.fr/violetumleditor/
 http://alexdp.free.fr/violetumleditor/page.php?id=en:authors
